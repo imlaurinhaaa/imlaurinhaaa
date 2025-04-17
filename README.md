@@ -19,6 +19,9 @@
 ## 📊 GitHub Stats
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=imlaurinhaaa&show_icons=true&theme=dracula)
 
+## 🌆 Meu GitHub Skyline
+[![Laura's Skyline](https://github.com/imlaurinhaaa/imlaurinhaaa/raw/main/assets/skyline.gif)](https://skyline.github.com/imlaurinhaaa)
+
 ## 📫 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Ferreira_Violla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-ferreira-violla-a526b12b1/)
 [![Instagram](https://img.shields.io/badge/@imlaurinhaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imlaurinhaaa)

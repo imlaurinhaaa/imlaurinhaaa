@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![Laura GitHub Stats](https://github-readme-stats.vercel.app/api?username=imlaurinhaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlaurinhaaa&layout=compact&theme=radical&langs_count=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlaurinhaaa&layout=compact&theme=radical&langs_count=6)  
+![Laura GitHub Stats](https://github-readme-stats.vercel.app/api?username=imlaurinhaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imlaurinhaaa&theme=radical&hide_border=true)
 

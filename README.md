@@ -25,8 +25,6 @@
 
 ![Laura GitHub Stats](https://github-readme-stats.vercel.app/api?username=imlaurinhaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imlaurinhaaa&theme=radical&hide_border=true)
-
 ## 📫 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Ferreira_Violla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-ferreira-violla-a526b12b1/)
 [![Instagram](https://img.shields.io/badge/@imlaurinhaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imlaurinhaaa)
